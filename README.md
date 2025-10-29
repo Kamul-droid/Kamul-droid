@@ -1,6 +1,6 @@
 # Hi, I'm Kamul ! 👋  
 
-Welcome to my GitHub profile! I am currently studying Computer Science with a focus on Machine Learning and I'm currently Software Developer at MAVIBRATION. With a diverse experience in software engineering, data analysis, and project management across France and Germany, I bring a global perspective to problem-solving and innovation.
+Welcome to my GitHub profile! I have a Master degree in Computer Science and deep insight in ML. With a diverse experience in software engineering, data analysis, and project management across France and Germany, I bring a global perspective to problem-solving and innovation.
 
 ## 🚀 About Me  
 
