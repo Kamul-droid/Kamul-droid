@@ -1,12 +1,14 @@
 # Hi, I'm Kamul ! 👋  
 
-Welcome to my GitHub profile! I have a Master degree in Computer Science and deep insight in ML. With a diverse experience in software engineering, data analysis, and project management across France and Germany, I bring a global perspective to problem-solving and innovation.
+Yes, you are at the right place; this is my perso github profile! I have a Master degree in Computer Science with a focus on ML. However I also have diverse experience in software engineering, and project management. 
+
+This is not a shining and well curated Repo but my personal librairy for project I started for academic purpose
 
 ## 🚀 About Me  
 
-I'm passionate about programming, AI engineering, and building impactful applications. My professional experience spans data analysis, full-stack web development, and software architecture. I thrive on leveraging technology to drive meaningful change.  
+I'm passionate (Someone told me that; that's what one can say when you spend 12 hours per day trying to figure out the right pattern and implementing a solution you'll have to delete the next few days and start a new one because that is not anymore in trend (^-^)) about programming, AI engineering, and like to build impactful applications. My professional experience spans data analysis, full-stack web development, and software architecture. I love to use technology to drive meaningful change.  
 
-## 💡 My Strengths  
+## 💡 My Strengths  (The areas I know what I am talking about with moderate ensurance (Yesterday truth is no longer valid today in most of the case)
 
 - **Machine Learning & AI**: Creating data-driven solutions that mimic human intelligence and optimize workflows. 
 - **Large Language Models (LLMs)**: Exploring the capabilities of models like GPT to understand and generate human-like text. 
@@ -23,7 +25,8 @@ I'm passionate about programming, AI engineering, and building impactful applica
 - **Cloud**: Azure, AWS, GCP  
 - **Container Tools**: Docker, Kubernetes  
 - **Professional Certifications**:  
-  - AI-102, Microsoft Certified: Azure AI Engineer Associate  
+  - AI-102, Microsoft Certified: Azure AI Engineer Associate
+  - Google Engineer Associate
   - PL-900, Microsoft Power Platform Fundamental  
   - AZ-900, Microsoft Azure Fundamental  
   - AI-900, Microsoft Azure AI Fundamental  
